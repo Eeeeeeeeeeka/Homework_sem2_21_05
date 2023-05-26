@@ -1,0 +1,15 @@
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/bin/Debug/net6.0/Task 15
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/bin/Debug/net6.0/Task 15.deps.json
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/bin/Debug/net6.0/Task 15.runtimeconfig.json
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/bin/Debug/net6.0/Task 15.dll
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/bin/Debug/net6.0/Task 15.pdb
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/obj/Debug/net6.0/Task 15.csproj.AssemblyReference.cache
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/obj/Debug/net6.0/Task 15.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/obj/Debug/net6.0/Task 15.AssemblyInfoInputs.cache
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/obj/Debug/net6.0/Task 15.AssemblyInfo.cs
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/obj/Debug/net6.0/Task 15.csproj.CoreCompileInputs.cache
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/obj/Debug/net6.0/Task 15.dll
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/obj/Debug/net6.0/refint/Task 15.dll
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/obj/Debug/net6.0/Task 15.pdb
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/obj/Debug/net6.0/Task 15.genruntimeconfig.cache
+/Users/eka/Desktop/Учеба/Homework_sem2_21_05/Task 15/obj/Debug/net6.0/ref/Task 15.dll
