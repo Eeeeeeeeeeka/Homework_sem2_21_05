@@ -5,3 +5,13 @@
 // 32679 -> 6
 
 Console.Clear();
+Console.Write("Введите число: ");
+int n = int.Parse(Console.ReadLine()!);
+if (n < 100)
+    Console.Write("третьей цифры нет");
+else
+{
+    while (n > 999)
+        n = n / 10;
+    Console.Write($"{n % 10}");
+}
