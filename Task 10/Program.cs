@@ -7,7 +7,9 @@
 Console.Clear();
 Console.Write("Введите трёхзначное число: ");
 int n = int.Parse(Console.ReadLine()!);
-if (n < 100 || n > 999)
-    Console.WriteLine("Ошибка! Введите трёхзначное число!");
-else
+while (n < 100 || n > 999)
+{
+    Console.WriteLine("Ошибка!\nВведите трёхзначное число: ");
+    n = int.Parse(Console.ReadLine()!);
+}
     Console.WriteLine($"Второе число — {(n % 100) / 10}");
